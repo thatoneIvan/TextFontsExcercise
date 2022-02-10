@@ -1,0 +1,37 @@
+/* bonus 1 */
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Press+Start+2P&display=swap');
+
+:root{font-family: 'Orbitron', sans-serif;}
+
+span{font-weight: bold;}
+
+h1{font-size: 50px;
+    letter-spacing: 10px;
+    text-align: center;
+}
+h1{text-transform: uppercase;text-decoration: underline;} 
+
+#series-movies {font-size: 20px;}
+
+/* slightly confused on this one */
+h2{ font-size: 2em}
+
+li{line-height: 2;}
+
+#characters{font-size: 18px;}
+
+h4 {letter-spacing: 15px;
+/* B 2 */
+font-family:'Press Start 2P', cursive;}
+/* B 3 */
+h4,h3,h2{text-align: center ; }
+
+li{font-size: 1rem}
+
+body{
+    background-image: url("starTrek.jpg");
+}
+* {color: rgba(255, 255, 255, .6);}
+image{background-position: center;
+    background-size: 50%;
+}
